@@ -6,6 +6,6 @@
 ![image](https://github.com/user-attachments/assets/9b3b50d6-29a5-4731-b891-4c6cb184b07a)
 
 
-2.执行脚本，脚本目录生成output文件夹，为翻译好的数据文件
+2.执行脚本，python rpgTranslate.py ，脚本目录生成output文件夹，为翻译好的数据文件
 
 3.把翻译好的数据文件替换原游戏目录下的数据
